@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://kingofak-you.onrender.com";
+var hostURL="https://kingofak-you-1.onrender.com";
 //TOGGLE for Shorters
 var use1pt=false;
 
